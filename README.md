@@ -16,7 +16,7 @@ Pada saat ini saya berfokus pada Computer Vision masih dalam ranah Artificial In
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimassetiawan1012" alt="dimassetiawan1012" /></a> </p>
 -->
 
-- 🌱 Saya sekarang fokus pada **Software Developer dan Machine Learning**
+- 🌱 Saya sekarang fokus pada **Software Developer, Machine Learning, dan Data Engineer**
 
 - 💬 Tanya saya tentang **apapun itu**
 
