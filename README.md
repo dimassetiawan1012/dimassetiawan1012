@@ -1,8 +1,7 @@
 <h1 align="center">Halo 👋, Saya Dimas Setiawan</h1>
-<h3 align="center">Seorang Software Developer dan Machine Learning Developer</h3>
+<h3 align="center">Seorang Data Engineer, Data Scientist, Software Developer, AI Engineer, dan Machine Learning Engineer</h3>
 <p align="center">
-  Saya berpengalaman bekerja di Perusahaan di bidang AI, selain itu saya banyak mengerjakan projek-projek terkait pengembangan Web, Aplikasi, API
-Pada saat ini saya berfokus pada Computer Vision masih dalam ranah Artificial Intelligence
+  Saya seorang Data Engineer dengan lebih dari 5 tahun pengalaman di sektor perbankan, keuangan, dan teknologi. Terbukti mampu merancang dan mengoptimalkan ETL pipelines, data warehouse, serta solusi berbasis cloud untuk meningkatkan efisiensi, akurasi pelaporan, dan kepatuhan regulasi. Menguasai SQL, Python, serta berbagai tools data engineering dan cloud (AWS, Azure, GCP, BigQuery). Berpengalaman dalam pengembangan solusi berbasis AI dan machine learning seperti chatbot, OCR, forecasting, dan computer vision. Memiliki rekam jejak dalam meningkatkan kualitas data, mengotomatisasi proses, serta memimpin tim IT untuk menghasilkan solusi yang berdampak nyata pada bisnis.
 </p>
 <!-- icon gif -->
 <p align="center">
